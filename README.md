@@ -1,4 +1,4 @@
-# Specialization in Applied Data Science provided by University of Michigan on Coursera
+# Specialization in Applied Data Science provided by University of Michigan through Coursera
 https://www.coursera.org/specializations/data-science-python
 
 ### Below certified courses were successfully completed in order to earn the specialization:-
